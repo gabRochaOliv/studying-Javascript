@@ -1,1 +1,1 @@
-# Aprendendo os fundamentos do JavaScirpt 
+# Aprendendo os fundamentos do JavaScirpt na prática 
